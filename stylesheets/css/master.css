@@ -111,7 +111,7 @@ header a {
 
 .body-container button {
   display: block;
-  margin: 0 auto 0 auto;
+  margin: 0 auto 25px auto;
   border: 4px rgb(92, 184, 207) solid;
   padding: 5px 13px;
   font-weight: bold;
